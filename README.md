@@ -12,7 +12,7 @@ A CSS Project to practice CSS animations and transform properties. This project 
 
 ## Live Demo
 
-[Animated Penguin](https://eddking-qs.github.io/CSS-Mini_Projects-Animated_Penguin/)
+[Animated Penguin](https://quintin-dev.github.io/CSS-Mini_Projects-Animated_Penguin/)
 
 ## Disclaimer
 
